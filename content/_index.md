@@ -1,9 +1,9 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
+  title_small: "to Healthy Diet"
   content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
-  image: /images/banner-author.png
+  image: /images/healthy-diet.png
   button:
     label: Know About Me
     link: /about
@@ -14,7 +14,7 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
   link: "#"
 

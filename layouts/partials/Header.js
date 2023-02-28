@@ -31,6 +31,8 @@ const Header = () => {
 
   return (
     <header className="header">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2168659351458088"
+     crossorigin="anonymous"></script>
       <nav className="navbar container px-1 sm:px-8">
         <div className="order-0">
           <Logo />
